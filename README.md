@@ -10,7 +10,7 @@ A custom CNN-based Fire Detection System designed for real-time image classifica
 
 ⚡ Performance: 94% accuracy, superior to ResNet50 benchmark
 
-🖧 Deployment: Optimized for real-time detection on edge devices
+ 🖧 Deployment: Optimized for real-time detection on edge devices
 
 💻 Tested on: Google Colab T4 GPU & local RTX 4060 GPU
 
