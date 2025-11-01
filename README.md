@@ -6,23 +6,23 @@ A custom CNN-based Fire Detection System designed for real-time image classifica
 
 ## 🚀 Highlights
 
-Frameworks: TensorFlow & Keras
+🧠 Frameworks: TensorFlow & Keras
 
-Performance: 94% accuracy, superior to ResNet50 benchmark
+⚡ Performance: 94% accuracy, superior to ResNet50 benchmark
 
-Deployment: Optimized for real-time detection on edge devices
+🖧 Deployment: Optimized for real-time detection on edge devices
 
-Tested on: Google Colab T4 GPU & local RTX 4060 GPU
+💻 Tested on: Google Colab T4 GPU & local RTX 4060 GPU
 
 ---
 
 ## ⚙️ Features
 
-Real-time fire vs. non-fire classification
+Real-time detection: 🔥 Fire vs. non-fire classification
 
-Advanced data preprocessing & augmentation
+Data handling: 🛠️ Advanced preprocessing & augmentation
 
-Visualization through confusion matrix, accuracy, and loss curves
+Performance analysis: 📊 Confusion matrix, accuracy, and loss curves
 
 ---
 
@@ -36,36 +36,20 @@ Visualization through confusion matrix, accuracy, and loss curves
 
 ---
 
-## 📦 Future Scope
+# 🔧 Technologies Used
 
-Integration with IoT devices and live video feed monitoring for smart safety systems.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F77F00?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ---
 
-## ⚙️ How to Run:
+## 📦 Future Scope
 
--Clone the repository
+🌐 Integration with IoT devices and live video feed monitoring for smart safety systems.
 
- git clone https://github.com/yourusername/fire-detection-cnn.git
- cd fire-detection-cnn
+---
 
-
-- Install dependencies
-
-  pip install -r requirements.txt
-
-
-
-- Train the model (optional if pretrained weights are included)
-
-  python train.py
-
-
-- Test or run real-time detection
-
-  python detect.py --source path_to_image_or_video
-
-
-- For TensorFlow Lite deployment, convert the model using the included script:
-
-  python convert_to_tflite.py
