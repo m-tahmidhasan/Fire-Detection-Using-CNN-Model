@@ -1,4 +1,4 @@
-## 🔥 Fire Detection Using Deep Learning
+## 🔥 Fire Detection Using CNN Model
 
 A custom CNN-based Fire Detection System designed for real-time image classification. This model achieves 94% test accuracy, outperforming ResNet50 on the same dataset, while remaining lightweight and deployable via TensorFlow Lite.
 
